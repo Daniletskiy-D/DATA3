@@ -1,0 +1,14 @@
+[
+    {
+        "departure_point": "Ставрополь",
+        "number_train": "222",
+        "time_departure": "18:30",
+        "destination": "Ростов"
+    },
+    {
+        "departure_point": "Ростов",
+        "number_train": "222",
+        "time_departure": "23:30",
+        "destination": "Ставрополь"
+    }
+]
