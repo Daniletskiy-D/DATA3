@@ -1,0 +1,16 @@
+attrs @ file:///C:/b/abs_35n0jusce8/croot/attrs_1695717880170/work
+black==24.2.0
+click==8.1.7
+colorama==0.4.6
+flake8==7.0.0
+jsonschema @ file:///C:/b/abs_d1c4sm8drk/croot/jsonschema_1699041668863/work
+jsonschema-specifications @ file:///C:/b/abs_0brvm6vryw/croot/jsonschema-specifications_1699032417323/work
+mccabe==0.7.0
+mypy-extensions==1.0.0
+packaging==23.2
+pathspec==0.12.1
+platformdirs==4.2.0
+pycodestyle==2.11.1
+pyflakes==3.2.0
+referencing @ file:///C:/b/abs_09f4hj6adf/croot/referencing_1699012097448/work
+rpds-py @ file:///C:/b/abs_76j4g4la23/croot/rpds-py_1698947348047/work
